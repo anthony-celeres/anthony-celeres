@@ -1,32 +1,37 @@
-# こんにちは、私のプロフィールへようこそ！  
-## Konnichiwa, Welcome to My Profile!  
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Anthony L. Celeres </font></h1>
 
----
+<!-- Schedule a 1-on-1 Call Section (optional) -->
+<h3 align="left"><font size="+2" face="Verdana">Let's Connect:</font></h3>
+<p align="left">
+  <a href="[Your Calendly or Booking Link]" target="_blank" rel="noreferrer"> Book a Call with me </a> or connect via LinkedIn!
+</p>
 
-## 📌 About Me  
-👋 Hi! I'm **Anthony**, an indie developer and app creator passionate about **technology, education, and creativity**.  
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-💡 I specialize in **CS, AI, and smart applications**, with a strong interest in:  
-- 🧮 **Mathematics**  
-- 🔬 **Science**  
-- ✍️ **Storytelling**  
+<!-- Tech Stack Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
----
+- DevOps enthusiast with hands-on experience in CI/CD, Docker, Kubernetes, Terraform, and AWS/GCP.
+- Looking to collaborate on exciting cloud-native and open-source projects.
 
-## 🌟 Motto in Life  
-> *"Embrace the process, and success will follow."*  
+<!-- Tools logos section (customize with what YOU use) -->
 
----
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="Python"/>
+</p>
 
-## 🛠️ Skills & Expertise  
-🔹 Programming: `C`, `C++`, `Java`  
-🔹 AI & Machine Learning  
-🔹 Mobile & Web App Development  
-🔹 Game Development  
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 
----
-
-## 📫 Contact Me  
-📧 Email: [celeresanthony@gmail.com](celeresanthony@gmail.com)  
-🔗 GitHub: [https://github.com/anthony-celeres](https://github.com/anthony-celeres)  
-🔗 LinkedIn: [https://www.linkedin.com/in/anthony-celeres/](https://www.linkedin.com/in/anthony-celeres/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> |
+  <a href="https://github.com/yourusername">GitHub</a> |
+  <a href="mailto:youremail@example.com">Email</a>
+</p>
