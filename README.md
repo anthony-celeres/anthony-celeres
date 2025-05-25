@@ -13,9 +13,6 @@
 <!-- Tech Stack Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-- DevOps enthusiast with hands-on experience in CI/CD, Docker, Kubernetes, Terraform, and AWS/GCP.
-- Looking to collaborate on exciting cloud-native and open-source projects.
-
 <!-- Tools logos section (customize with what YOU use) -->
 
 <p align="left">
@@ -31,7 +28,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> |
-  <a href="https://github.com/yourusername">GitHub</a> |
-  <a href="mailto:youremail@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/anthony-celeres//">LinkedIn</a> |
+  <a href="https://github.com/anthony-celeres">GitHub</a> |
+  <a href="mailto:aceleres.nimbus@gmail.com">Email</a>
 </p>
