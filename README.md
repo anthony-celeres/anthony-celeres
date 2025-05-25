@@ -1,16 +1,32 @@
-## Hi there 👋
+# こんにちは、私のプロフィールへようこそ！  
+## Konnichiwa, Welcome to My Profile!  
 
-<!--
-**anthony-celeres/anthony-celeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 About Me  
+👋 Hi! I'm **Anthony**, an indie developer and app creator passionate about **technology, education, and creativity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I specialize in **CS, AI, and smart applications**, with a strong interest in:  
+- 🧮 **Mathematics**  
+- 🔬 **Science**  
+- ✍️ **Storytelling**  
+
+---
+
+## 🌟 Motto in Life  
+> *"Embrace the process, and success will follow."*  
+
+---
+
+## 🛠️ Skills & Expertise  
+🔹 Programming: `C`, `C++`, `Java`  
+🔹 AI & Machine Learning  
+🔹 Mobile & Web App Development  
+🔹 Game Development  
+
+---
+
+## 📫 Contact Me  
+📧 Email: [celeresanthony@gmail.com](celeresanthony@gmail.com)  
+🔗 GitHub: [https://github.com/anthony-celeres](https://github.com/anthony-celeres)  
+🔗 LinkedIn: [https://www.linkedin.com/in/anthony-celeres/](https://www.linkedin.com/in/anthony-celeres/)  
