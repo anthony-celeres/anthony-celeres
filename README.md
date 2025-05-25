@@ -1,20 +1,19 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Anthony L. Celeres </font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Anthony L. Celeres</font></h1>
 
-<!-- Schedule a 1-on-1 Call Section (optional) -->
+<p align="center"><i>Exploring cloud technologies and building skills step by step.</i></p>
+
+<!-- Connect Section -->
 <h3 align="left"><font size="+2" face="Verdana">Let's Connect:</font></h3>
-<p align="left">
-  <a href="[Your Calendly or Booking Link]" target="_blank" rel="noreferrer"> Book a Call with me </a> or connect via LinkedIn!
-</p>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<!-- Tech Stack Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<!-- Learning Section -->
+<h3 align="left"><font size="+2" face="Verdana">Currently Learning:</font></h3>
+<p align="left">AWS, Docker, Kubernetes, Terraform, and other cloud tools.</p>
 
-<!-- Tools logos section (customize with what YOU use) -->
-
+<!-- Tools logos section -->
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
@@ -25,10 +24,9 @@
 </p>
 
 <!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-
+<h3 align="left"><font size="+2" face="Verdana">Contact Me:</font></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anthony-celeres//">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/anthony-celeres/">LinkedIn</a> |
   <a href="https://github.com/anthony-celeres">GitHub</a> |
   <a href="mailto:aceleres.nimbus@gmail.com">Email</a>
 </p>
